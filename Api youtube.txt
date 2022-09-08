@@ -1,0 +1,4 @@
+Site para ativar e ter a chave da API: console.developer.google.
+Site da API da youtube: youtube API Data.
+Site para converter o condigo em Json: json formatter.
+Site para poder encontrar a id dos canais da youtube: commentpicker.com
